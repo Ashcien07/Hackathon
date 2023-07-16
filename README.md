@@ -1,15 +1,6 @@
-# Hackathon
-This is my personal portfolio
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## This is how the website will look like
-<img width="1280" alt="Screenshot 2023-04-27 084141" src="https://user-images.githubusercontent.com/93029118/234750311-9d859bc7-649f-428f-a176-e3b04b4cffbd.png">
-
-
-## Live Demo Of The Website
-[Website](https://snehashishpatra.vercel.app)
 
 ## Available Scripts
 
@@ -19,7 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-<img width="1280" alt="Screenshot 2023-04-27 084036" src="https://user-images.githubusercontent.com/93029118/234750208-0210b490-44e7-4c72-9afd-cbbfbc3718cf.png">
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
